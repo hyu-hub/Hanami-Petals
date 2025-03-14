@@ -9,9 +9,6 @@ A beautiful cherry blossom petal animation with interactive controls and backgro
 - Fullscreen mode
 - Responsive design
 
-## Live Demo
-[View Demo](https://hyu-hub.github.io/Hanami-Petals/)
-
 ## Controls
 - Use sliders to adjust petal properties
 - Click 🎵 to toggle background music
